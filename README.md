@@ -55,12 +55,6 @@ pnx expo start --web
 
 **Credenciais de teste:** qualquer e-mail válido (ex.: `aluno@email.com`) e senha com 6+ caracteres.
 
-## 📸 Prints
-
-> Adicione aqui os prints das telas (pasta `docs/`):
->
-> `![Login](docs/login.png)` · `![Masculino](docs/masculino.png)` · `![Feminino](docs/feminino.png)` · `![Detalhes](docs/detalhes.png)`
-
 ## 👤 Autor
 
 Lisa Goes Silva - 100804
