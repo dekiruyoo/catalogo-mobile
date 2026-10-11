@@ -55,6 +55,11 @@ pnx expo start --web
 
 **Credenciais de teste:** qualquer e-mail válido (ex.: `aluno@email.com`) e senha com 6+ caracteres.
 
-## 👤 Autor
+![[img/Pasted image 1.png]]
+![[img/Pasted image 2.png]]
+![[img/Pasted image 3.png]]
+
+
+## 👤 Autora
 
 Lisa Goes Silva - 100804
