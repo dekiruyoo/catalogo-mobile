@@ -55,10 +55,9 @@ pnx expo start --web
 
 **Credenciais de teste:** qualquer e-mail válido (ex.: `aluno@email.com`) e senha com 6+ caracteres.
 
-![1](./img/Pasted image 1.png)
-![2](./img/Pasted image 2.png)
-![3](./img/Pasted image 3.png)
-
+<img src="./img/Pasted image 1.png" width="400">
+<img src="./img/Pasted image 2.png" width="400">
+<img src="./img/Pasted image 3.png" width="400">
 
 ## 👤 Autora
 
